@@ -1,5 +1,5 @@
-# Test Aston Lomaev Denis Python
+# Test Lomaev Denis Python
 
-ТЗ ASTON
+ТЗ 
 Прикладываю файлы с решениями задач, в каждом файле решение одной задачи
 
